@@ -4,27 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dec613c1-806f-4b05-af81-97406c439d80" name="Changes" comment="" />
+    <list default="true" id="ed144b26-561d-4c0d-b6df-14ac005e5ed2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../SpringTutorial/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringTutorial/demo/demo/HELP.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Git/Learning_Java" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
     </option>
   </component>
-  <component name="ProjectId" id="2TzWAk1VJJyr3X2Mp6WQ2Jlv0Cg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2UFVwDYWBx8TpeQQ5opxFV74Vo0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,30 +32,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/przem/Git/Learning_Java"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/przem/GitHub/Java_learning/SpringLearning/appWithRestApi",
+    "onboarding.tips.debug.path": "C:/Users/przem/GitHub/Java_learning/BitLoopMachine/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dec613c1-806f-4b05-af81-97406c439d80" name="Changes" comment="" />
-      <created>1692046251358</created>
+      <changelist id="ed144b26-561d-4c0d-b6df-14ac005e5ed2" name="Changes" comment="" />
+      <created>1692535554648</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1692046251358</updated>
+      <updated>1692535554648</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
