@@ -1,3 +1,5 @@
+package GuiExcercising;
+
 import javax.swing.*;
 
 public class SimpleGui1 {

@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed144b26-561d-4c0d-b6df-14ac005e5ed2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GuiExcercising/MyDrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuiExcercising/SimpleGui2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuiExcercising/SimpleGui3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/SimpleGui1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleGui1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuiExcercising/SimpleGui1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/src/main/java/com/example/demo/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/src/main/java/com/example/demo/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringLearning/AppWithRest&amp;DB/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/przem/GitHub/Java_learning/SpringLearning/appWithRestApi",
+    "last_opened_file_path": "C:/Users/przem/GitHub/Java_learning/BitLoopMachine",
     "onboarding.tips.debug.path": "C:/Users/przem/GitHub/Java_learning/BitLoopMachine/src/Main.java"
   }
 }]]></component>
