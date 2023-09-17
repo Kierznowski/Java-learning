@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b41b52e-3557-499b-8e2b-a37f9e3a4592" name="Changes" comment="" />
+    <list default="true" id="6b41b52e-3557-499b-8e2b-a37f9e3a4592" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPIExcercise/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPIExcercise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPIExcercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPIExcercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPIExcercise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPIExcercise/src/main/java/org/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamAPI/StreamAPIExcercise/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="2TAjJk8DKCWbmCIA6pSOLJ8XhaM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/przem/GitHub/Java_learning/KamilBrzeziński/Wisielec",
     "onboarding.tips.debug.path": "C:/Users/przem/IdeaProjects/Wisielec/src/Main.java"
   }
 }]]></component>
