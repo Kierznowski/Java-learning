@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed144b26-561d-4c0d-b6df-14ac005e5ed2" name="Changes" comment="" />
+    <list default="true" id="ed144b26-561d-4c0d-b6df-14ac005e5ed2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit5_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BitLoopMachine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BitLoopMachine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/BitLoopMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/GuiExcercising/MyDrawPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/GuiExcercising/SimpleGui1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/GuiExcercising/SimpleGui2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/GuiExcercising/SimpleGui3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/GuiExcercising/TwoButtons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/MiniMiniMusicApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/MiniMusicCmdLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/SimpleAnimation$MyDrawPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BitLoopMachine/SimpleAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BitLoopMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitLoopMachine.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +33,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2UFVwDYWBx8TpeQQ5opxFV74Vo0" />
   <component name="ProjectViewState">
@@ -27,11 +47,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "test-branch",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/przem/GitHub/CaffeineApp/app",
-    "onboarding.tips.debug.path": "C:/Users/przem/GitHub/Java_learning/BitLoopMachine/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/przem/GitHub/Java_learning/BitLoopMachine/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,5 +73,28 @@
       <updated>1692535554648</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="test-branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

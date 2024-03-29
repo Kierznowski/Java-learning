@@ -25,7 +25,7 @@ public class BitLoopMachine {
     }
 
     public void buildGUI() {
-        JFrame frame = new JFrame("BirLoopMachine");
+        JFrame frame = new JFrame("BitLoopMachine");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         BorderLayout layout = new BorderLayout();
         JPanel background = new JPanel(layout);
